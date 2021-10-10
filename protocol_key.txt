@@ -1,0 +1,20 @@
+# Teaspeak Protocol Key by "yamano" (Teaspeak forum)
+# Valid until March 2020 
+# Contact: support@cyberlimbo.com
+# This is your auto generated TeaSpeak keychain.
+# DO NOT SHARE THESE DATA!
+# version:0
+# chain:AQDwPr97P4QLvKrm2lHLDMYLqQdt+0+Ur2MAY8K6/LE9vgIKiumHDGWFhwEAAAQAVGVhU3BlYWsA
+# root_key_prv:Hv63zAmpqFR/aNm+JNhf3EV11rxzqr/rRMYz3e68DQc=
+# root_key_pbl:6pf1vRZwwtXctqlLQgLd++V4uvpgVSi24zPf3H85zso=
+# root_prv_index:1
+# version: 0
+# chain: AQA1hUFJiiSs0wFXkYuPUJVcDa6XCrZTcsvkB0Ffzz4CmwIITRXgCqeTYAcAAAAgQW5vbnltb3VzAA==
+# root_key_prv: oCPmMAvfkS6z/UWghpcfl+a7EO11FMGh/DGKSVgJ33g=
+# root_key_pbl: zQ3irtRjRVCafjz9j2iz3HVVsp3M7HPNGHUPmTgSQIo=
+# root_prv_index: 1
+version: 0
+chain: AQCvbHFTQDY/terPeilrp/ECU9xCH5U3xC92lYTNaY/0KQAJFueAazbsgAAAACVUZWFtU3BlYWsgU3lzdGVtcyBHbWJIAADZjAb2mBoYC1f0AWNQCUZwKebMh9OJza1cG9K3ljkeIwALpRg/MbVwhwAAACRUZWFtU3BlYWsgc3lzdGVtcyBHbWJIAAA+n8CR+nzhmOI72x3SPCzXqlnYKQajpXLtyFSpvXkMFQILrgoADZCPAAYAAAAAQ2FybG9zIFNpbHZhAA==
+root_key_prv: gGZtKIbO1PlVyODqER8ntbsl/PQHbAlKuo3t9I/bF1s=
+root_key_pbl: zQ3irtRjRVCafjz9j2iz3HVVsp3M7HPNGHUPmTgSQIo=
+root_prv_index: 3
